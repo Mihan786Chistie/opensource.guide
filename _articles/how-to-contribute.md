@@ -30,7 +30,7 @@ Lots of open source contributors start by being users of software they contribut
 
 ### Improve existing skills
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Whether it's coding, UI design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
 
 ### Meet people who are interested in similar things
 
